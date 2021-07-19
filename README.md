@@ -1,6 +1,6 @@
 
 > Diese Seite bei [https://smartfeld-ch.github.io/online2_m0004_reaktionsspiel/](https://smartfeld-ch.github.io/online2_m0004_reaktionsspiel/) öffnen
-
+[Tutorial](/online2_m0004_reaktionsspiel/tutorial)
 ## Als Erweiterung verwenden
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
