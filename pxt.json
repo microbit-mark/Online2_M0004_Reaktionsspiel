@@ -18,11 +18,11 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "3.1.79",
+        "target": "4.0.9",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
