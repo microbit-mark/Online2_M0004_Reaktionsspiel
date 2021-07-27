@@ -1,6 +1,6 @@
 {
     "name": "Online2_M0004_Reaktionsgame",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -12,7 +12,6 @@
         "main.blocks",
         "main.ts",
         "tutorial.md",
-        "_locales/de-DE/tutorial.md"
     ],
     "testFiles": [
         "test.ts"
